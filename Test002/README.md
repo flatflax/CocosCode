@@ -1,0 +1,1 @@
+`CocosCreator`官方教程摘星星使用typeScript改写。
